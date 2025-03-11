@@ -15,9 +15,9 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by editing <code>app/page.js</code>.
+            Something basic in Next JS<code>by Micheal Callaghan lol</code>.
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>SBuilding out a template</li>
         </ol>
 
         <div className={styles.ctas}>
